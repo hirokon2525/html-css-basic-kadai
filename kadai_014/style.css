@@ -4,7 +4,10 @@ html{
 body{
   text-align: center;
 }
-#basic{
+#basic h2{
+  font-weight: bold;
+}
+#basic p{
   font-weight: bold;
 }
 h1{
